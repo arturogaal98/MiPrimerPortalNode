@@ -4,3 +4,4 @@ En este proyecto, hicimos un portal web utilizando la web para Javascrip "Nodejs
 
 https://now-app-beta.now.sh
 
+![Captura de pantalla (69)](https://user-images.githubusercontent.com/61336075/77723535-593b2200-6fb6-11ea-9e95-2ec3c148d535.png)
